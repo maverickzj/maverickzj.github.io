@@ -56,3 +56,4 @@ paginate     = 10
     identifier = "posts"
     name       = "/posts"
     url        = "/posts"
+
