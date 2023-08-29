@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "朴素地写些什么"
+  homeSubtitle = "大言也不炎炎。"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = true
@@ -32,14 +32,14 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "xiajibabb"
+    title = "小言詹詹"
     subtitle = "kzysblog"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "aaaa"
+      logoText = "小言詹詹"
       logoHomeLink = "/"
     # or
     #
@@ -49,11 +49,19 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
       identifier = "home"
-      name       = "home"
+      name       = "首页"
       url        = "/"
 
   [[menu.main]]
     identifier = "posts"
-    name       = "/posts"
+    name       = "随便写写"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "notes"
+    name       = "笔记"
+    url        = "/notes"
+
+
+
 
