@@ -4,9 +4,9 @@ date: 2023-09-02T18:51:44+08:00
 draft: false
 ---
 
-Definitely inspiring. Xenakis is certainly a mentor for me in the field of music, and even in my life. Some of the fun parts of those conversations will be posted as follows, maybe with my comment. I'm not sure if I have the ability to give one.
+边喝酒边读，瞎jb摘
 
-I'm endeavoring to read and write more in English these days, because I find it challenging to express myself in English and read in English as quickly as I can in Chinese... Need to start practicing now. 
+我发现我喝了酒比清醒的时候更能读进去英语。。。
 
 ---
 
@@ -93,5 +93,217 @@ passage as atrocious because of the parallel octaves and the retard once
 heard before.' On reading this comment Xenakis played the passage
 over two or three times, to recapitulate what Honegger may have
 meant.*
+
+---
+
+'Sacrifice was only performed once, never again. Unfortunately,
+the recording is lost. A friend suggested I should show it to
+Boulez, who was then in the process of preparing, together with
+Scherchen, the programmes of the Domaine musical. Boulez said
+my music was too simple (to others he said I didn't know enough
+about music) and that music had to be complex. I engaged in a
+debate with him, saying that if music reaches a point where it has
+become too complex, you need a new kind of simplicity. Com
+plexity is not synonymous with aesthetic interest. We argued like
+that, and eventually it led to our first row, which lasted several
+years and deepened further after my article on the crisis of serial
+music.
+
+---
+
+*Messiaen taught you that it was enough for you to listen, to hear as
+much music as possible, and that you didn't need any academic training.*
+
+Yes, he said that the first time I saw him after class.
+
+---
+
+The scale relates the distance between pitches: it's a structure out
+side of time. Modes on the other hand include the outside-time
+structure of scales and also in-time structures such as percentages
+of notes or melodic pattern.
+
+===
+
+I had also written to Dimitri Mitropoulos in New York about
+Metastasis. He replied that he was too old to conduct new music
+and suggested that I send it to Donaueschingen, where music like
+that was supported ...
+
+---
+
+I had a Polish disciple, by the name of Penderecki, and that he
+was writing music with many glissandos like mine.
+
+---
+
+As far as 
+Varese was concerned, I greatly appreciated his music and liked it .¡|
+but it didn't have any influence on me. I shall have more to say f
+about this later on - anyway, I regarded him as one of the most '
+original composers of the century.
+
+---
+
+Incidentally, I didn't tell you the truth when I said that Scher- f
+chen was the only one to take an interest in my music. Nicolas %
+Nabokov was another: He had established a European cultural í
+foundation, financed by the Americans. After all, in those years |
+nobody but the Americans had money and many times they
+spent it with generosity. At the first competition run by the foun- -1
+dation Metastasis won first prize. The jury included Nabokov I
+himself, as well as Boris Blacher and some others. I won 10,000 1
+Swissfrancs—that was the first time I had made money outof my
+music. Berio also received a prize which he shared with some- ;
+body else.
+
+---
+
+I conducted conversations with Takemitsu and other
+gifted musicians and I realized that most Japanese composers
+didn't actually know the wonderful traditional Japanese music,
+they didn't understand it and were indifferent to it.
+
+---
+
+In the course of that visit I made the acquaintance of Yuji Taka-
+hashi, the brilliant pianist, who must have been around twenty
+then. His recitals consisted mostly of the works of contemporary
+composers. A few months later I received a letter from him: he
+was very poor, he wrote, but he wanted to commission a piano
+piece from me. I was moved by that gesture.
+
+和高桥悠治这么早就认识了呀。。。Herma是给他写的吗。。。
+
+---
+
+Then, in 1963, Aaron Copland phoned unexpectedly from New
+York. Did I feel like teaching at Tanglewood, he asked. It didn't
+take me long to say yes. 
+
+--
+
+Bernstein devoted a series of concerts to avant-garde music,
+conducting works by Cage, Brown, Ligeti and myself. But he
+made a mistake: on entering the podium, he gave a little speech
+saying he thought it was his duty to present so-called avant-garde
+music to the public, even though he himself was not interested in
+it at all! ... Bernstein eventually wrote to me explaining he hadn't
+meant it like that. Of course.
+
+哈哈哈哈操
+
+---
+
+It was years before I was able to work in the studio, in 1957.
+That's when Diamorphoses was realized for Enrico Fulchignoni's
+film, Orient-Occident, followed by Bohor, which created a scandal
+in Paris. I had dedicated Bohor to Pierre Schaeffer although he
+hated that music.
+
+---
+
+I became convinced - and I remain so even today - that one can
+achieve universality, not through religion, not through emotions
+or tradition, but through the sciences. Through a scientific way of
+thinking.
+
+interesting...
+
+---
+
+*By way of introduction, I would like to quote Fernand Léger: 'Every
+artist holds a weapon in his hand and attacks tradition with it. ' Do you
+agree with him?*
+
+No, I've never had a weapon, nor do I have one now. I'm not
+against tradition. I fight for different goals but that doesn't mean I
+want to destroy tradition, provided it doesn't destroy my object
+ives. But even then I wouldn't use arms against it. I would let it
+live!
+
+---
+
+When I first heard Debussy (very late on, at the time of the war against the
+British, in December 1944; that was also when I became
+acquainted with Bartók) I felt that his music was closest to what I
+was searching for. More than Bach, Mozart, Beethoven or Brahms,
+whose music I heard more often than Debussy's and Ravel's.
+
+---
+
+*Berg?*
+
+A romantic old chap. I like his Violin Concerto.
+
+---
+
+In science, aleatoric is used to
+mean 'probable'. In mathematics, an aleatoric variable is an exact
+ly circumscribed notion. The serialists, however, loosened up its
+meaning and identified it with improvisation. They continued to
+write rows, because that was what they were used to, but gave the
+interpreter the choice of playing this or that, here or there. The
+interpreter could choose according to instinct. However, that is
+not aleatorism but improvisation on a given material computed
+according to the serial system.
+
+---
+
+Cage's music can be interesting, until he relies too heavily on
+the interpreters, on improvisation. That's why I've kept aloof
+from this trend. In my opinion it is the composer's privilege to
+determine his works, down to the minutest detail. Otherwise he
+ought to share the copyright with his performers.
+
+---
+
+*He (Schoenberg) put music in another kind of prison.*
+
+That's right. Gage was looking for maximum freedom - not the
+freedom of thinking but that of intuition. That was again a mis-,
+take, or rather it was too partial.
+
+---
+
+(comment on Brahms) I'm attracted both by the complex form and by the melodic and rhythmic patterns of his compositions. The First and Fourth
+Symphony, the Piano Quintet, the sonatas for cello and piano and
+the last short piano pieces, which exerted such a strong influence
+on Schoenberg and others - they're my favourites.
+
+---
+
+*Your views on Mozart are notoriously unorthodox.*
+
+Yes, I think he's trivial. There are, of course, exceptions: the piano
+concertos are beautiful and so is Don Giovanni. But he wrote too
+much. I think Haydn is purer and more abstract.
+
+---
+
+ As far as opera is concerned I like Wagner and I find the
+nineteenth-century Italian operas dull, uninteresting, too natural
+istic.
+
+---
+
+*I made notes while listening to your works. The adjectives 'savage' and
+'aggressive' come up ratherfrequently. Your music sometimes inspires
+anxiety - it sounds like an irresistibly approaching doom. Where does
+that savageness come from?*
+
+It's part of our everyday life. Too much music is nice. By savage
+you mean brutal, painful, don't you?
+
+*Roughly, yes.*
+
+The universe is like that too. I don't think music ought to be
+pleasant all the time. Profound music is never like that. Some
+times, perhaps, but most of the time it is fearsome. No really great
+music is tender.
+
+---
+
+The only instrument I don't like is the flute - it has a silly sound.
 
 ---
