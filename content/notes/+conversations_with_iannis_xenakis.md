@@ -307,3 +307,9 @@ music is tender.
 The only instrument I don't like is the flute - it has a silly sound.
 
 ---
+
+However, what is impossible in the case of language can be
+realized in music. After all, music is not a language: it doesn't
+have the task of expressing something through sounds and sym
+bols. Music stands by itself, there's nothing beyond it. We can
+therefore use the Markov chain, provided the result is interesting.
