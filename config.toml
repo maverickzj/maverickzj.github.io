@@ -3,6 +3,7 @@ title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+disableRSS     = false
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -66,6 +67,17 @@ paginate     = 10
     identifier = "archives"
     name       = "归档"
     url        = "/archives"
+
+[[menu.main]]
+    identifier = "rss"
+    name       = "RSS"
+    url        = "/rss.xml"
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html','rss']
+  term = ['html','rss']
 
 
 
