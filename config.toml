@@ -68,11 +68,6 @@ disableRSS     = false
     name       = "归档"
     url        = "/archives"
 
-[[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/rss.xml"
-
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']

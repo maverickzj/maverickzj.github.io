@@ -313,3 +313,76 @@ realized in music. After all, music is not a language: it doesn't
 have the task of expressing something through sounds and sym
 bols. Music stands by itself, there's nothing beyond it. We can
 therefore use the Markov chain, provided the result is interesting.
+
+---
+
+ While instruments were manufactured
+in order for one to play melodies on them - in other words, the
+models are in the pitch versus time domain - in sound synthesis
+we are moving in the pressure versus time domain. 
+
+---
+
+at, for instance, is a noise. It's too rich for
+the ear, we can't perceive it as repetition, so, because our ear is
+nothing but a periodicity-counter, we put it in the noise domain.
+
+---
+
+For messages to be transmitted by intelligent
+beings they have to be differentiated from natural signals. The
+latter are more or less periodical. Do the messages sent by intelli
+gent beings also arrive in the form of periodic signals? To a certain
+extent yes, otherwise the result would be just noise, without any
+meaning. How can one differentiate between this periodicity and
+the natural one? That's a very profound problem in the pattern
+recognition of signals.
+
+你可以求出它的自相关函数。。。我不是学傻了就是喝多了。
+
+---
+
+I started out of perception. Everybody hears the intensity, dens
+ity (the number of events by seconds), pitch, the degree of order
+and duration of sound. We then determine the values of a given
+area of perception, for instance the perception of pitch. These
+form sets.
+
+When we perceive two pitches we not only hear them but, on a
+more abstract level, we assess by comparison the distance be
+tween them. That is our second proposition.
+
+The third: we are capable of repeating that distance and thereby
+receive new values of pitches.
+
+---
+
+*Wouldn't the easiest solution befor you to conduct your works
+yourself?*
+
+I don't think so. It's important that the performer should be able
+to maintain a certain distance from his repertoire. This detach
+ment would be impossible with the composer; he couldn't be
+objective. Stravinsky was a very bad conductor. Also, prepar
+ations for a performance take a long time, and conducting re
+quires constant practice.
+
+---
+
+Pierre
+Henry's studio was too small, and it didn't have the equipment to
+interest me, while Stockhausen didn't let anybody use the West
+deutscher Rundfunk studio - and it was in any case outdated,
+nothing had changed for twenty years. Nor was Scherchen's
+studio suitable for the kind of experiments I wanted to do.
+
+stockhausen你这么抠？
+
+---
+
+*To get back to the Polytopes: is there any link between the music and the
+spectacle?*
+The link is not between them but beyond or behind them. Because
+beyond there is nothing but the human brain - my brain.
+
+**MY brain.**
