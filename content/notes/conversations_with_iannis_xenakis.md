@@ -1,12 +1,12 @@
 ---
-title: "*Conversations with Iannis Xenakis"
+title: "Conversations with Iannis Xenakis"
 date: 2023-09-02T18:51:44+08:00
 draft: false
 ---
 
-边喝酒边读，瞎jb摘
+有意思的部分——显然地应该去思考什么样的经历塑造了Xenakis这样的人；对各音乐家及风格的评论；对其音乐的解释，这部分应该结合音乐去听。也许有时间再读一读那本Formalized Music。对Varga也很会问，值得推荐。
 
-我发现我喝了酒比清醒的时候更能读进去英语。。。
+下面的摘录无关紧要。
 
 ---
 
@@ -386,3 +386,43 @@ The link is not between them but beyond or behind them. Because
 beyond there is nothing but the human brain - my brain.
 
 **MY brain.**
+
+---
+
+The structure
+of the melodic scale is very important, not only in melodic pat
+terns - melodies - but also in producing chords of a different
+timbre. If you take a given range, and if the structure of the scale
+is rich enough, you can stay there without having to resort to
+melodic patterns - the interchange of the sounds themselves in a
+rather free rhythmic movement produces a melodic flow which is
+neither chords nor melodic patterns. That, perhaps, is what you
+mean. They give a kind of overall timbre in a particular domain.
+
+---
+
+You mentioned minimal music. That's simply a by-product of
+Indian or African music. In fact, however, it has always existed.
+Bach is repetitive - like a motor.
+
+In the past I experimented with music without a rhythmic
+pulse, that is, having no precise rhythmic sense. In my latest
+pieces I seem to have come back to very sharp and simple struc
+tures that are immediately perceptible.
+
+---
+
+Absolutely. I hate vibrato because it tends to be mechanical. It
+sounds so silly it spoils the music - either the melodic pattern or
+the style of the composition. There's a European vibrato which
+has existed for two or three centuries - i t didn't; exist before - and
+which students are encouraged to use all the time: it's absolutely silly. If, however, you can control it vibrato can be a very interest
+ing aesthetic tool, for we're certainly very sensitive to it.
+
+---
+
+*The dynamic level of your music still favours f to fff.*
+
+That's because I'm growing more deaf.
+
+---
