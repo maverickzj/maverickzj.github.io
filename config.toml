@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 disableRSS     = false
+disableSitemap = false
+
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -12,19 +14,40 @@ disableRSS     = false
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = ""
+  homeSubtitle = "躲进小楼成一统。"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = true
+  disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
   enableSharingButtons = false
+
+enableGlobalLanguageMenu = false
 
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+
+enableThemeToggle = true
+
+
+[params.footer]
+    trademark = 0
+    rss = 0
+    copyright = 0
+    author = 0
+
+topText = ["aaaeeeiii"]
+    bottomText = [
+      "2023-"
+    ]
+
+ [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
 
 [taxonomies]
     category = "blog"
@@ -41,11 +64,11 @@ disableRSS     = false
 
     [languages.en.params.logo]
       logoText = "小言詹詹"
-      logoHomeLink = "/"
+      logoHomeLink = ""
     # or
     #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    path = "/icon.svg"
+    alt = ""
 
   # And you can even create generic menu
   [[menu.main]]
@@ -84,8 +107,6 @@ disableRSS     = false
     [markup.goldmark.renderer]
       unsafe = true
 
-[plugins]
-  jekyll-feed = true
 
 
 
