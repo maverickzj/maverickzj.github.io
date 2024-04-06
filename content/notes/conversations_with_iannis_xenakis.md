@@ -4,6 +4,10 @@ date: 2023-09-02T18:51:44+08:00
 draft: false
 ---
 
+{{<raw>}}
+<center><img src="/images/conversations_with_iannis_xenakis.jpg" width="20%" /></center>
+{{</raw>}}
+
 有意思的部分——显然地应该去思考什么样的经历塑造了Xenakis这样的人；对各音乐家及风格的评论；对其音乐的解释，这部分应该结合音乐去听。也许有时间再读一读那本Formalized Music。对Varga也很会问，值得推荐。
 
 下面的摘录无关紧要。

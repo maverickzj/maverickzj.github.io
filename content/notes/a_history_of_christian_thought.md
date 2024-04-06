@@ -5,6 +5,10 @@ date: 2024-01-29T12:17:47+08:00
 draft: false
 ---
 
+{{<raw>}}
+<center><img src="/images/a_history_of_christian_thought.jpg" width="20%" /></center>
+{{</raw>}}
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 

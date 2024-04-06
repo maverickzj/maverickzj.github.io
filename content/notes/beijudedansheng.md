@@ -4,6 +4,10 @@ date: 2023-04-16T23:11:09+08:00
 draft: false
 ---
 
+{{<raw>}}
+<center><img src="/images/beijudedansheng.jpg" width="20%" /></center>
+{{</raw>}}
+
 了解关键概念。后来思考了一下感觉其实尼采的早期作品没什么好读的，但是当时自己做了恁些笔记也不枉为一种探索。该从《善恶的彼岸》往后精读。
 
 

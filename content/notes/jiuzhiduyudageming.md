@@ -4,11 +4,13 @@ date: 2023-09-15T17:15:37+08:00
 draft: false
 ---
 
+{{<raw>}}
+<center><img src="/images/jiuzhiduyudageming.jpg" width="20%" /></center>
+{{</raw>}}
+
 花了大概四个下午看完，前面认真看的，后面就懒了躺床上翻了。
 
 ---
-
-0915
 
  ## 1.2
 
@@ -215,6 +217,5 @@ draft: false
 
 多方面的不平等。比如纳税的不平等。
 
----
 
 
