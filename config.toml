@@ -71,7 +71,7 @@ disableRSS     = false
 [[menu.main]]
     identifier = "RSS"
     name       = "RSS"
-    url        = "/feed.xml"
+    url        = "https://maverickzj.github.io/index.xml"
 
 [outputs]
   home = ['html', 'rss']
