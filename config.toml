@@ -14,7 +14,7 @@ disableSitemap = false
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "躲进小楼成一统。"
+  homeSubtitle = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -39,7 +39,7 @@ enableThemeToggle = true
     copyright = 0
     author = 0
 
-topText = ["aaaeeeiii"]
+topText = ["躲进小楼成一统。"]
     bottomText = [
       "2023-"
     ]
@@ -71,10 +71,13 @@ topText = ["aaaeeeiii"]
     alt = ""
 
   # And you can even create generic menu
-  [[menu.main]]
-      identifier = "home"
-      name       = "首页"
-      url        = "/"
+ # [[menu.main]]
+   #   identifier = "home"
+     # name       = "首页"
+      #url        = "/"
+
+
+
 
   [[menu.main]]
     identifier = "posts"
@@ -95,6 +98,7 @@ topText = ["aaaeeeiii"]
     identifier = "RSS"
     name       = "RSS"
     url        = "https://maverickzj.github.io/index.xml"
+
 
 [outputs]
   home = ['html', 'rss']
